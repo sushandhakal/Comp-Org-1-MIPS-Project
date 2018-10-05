@@ -1,7 +1,7 @@
 syscall
 		
-		#$sp - this initializes to some address at the beginning of the program
-		#to display the input from the user (userInput)
+		#$sp - initializes to some address at the beginning of the program
+		#displays the input from the user (userInput)
 		li $v0, 4
 		la $a0, userInput
 		syscall
