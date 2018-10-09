@@ -1,5 +1,5 @@
-# MIPS-Programming-Assignment-2
-#                                                 MIPS-Programming-Assignment-2 #
+
+#                                                 MIPS-Programming-PROJECT 2 #
 This MIPS program gets input from the user. The input, which is a string, is then divided into sub-strings. Partitioning is done when comma is found in the input. Then, the substring is converted into unsiged decimal value if it is a hexadecimal string. Otherwise, it iwll show an error message. Output is show is shown in the same way input was given.
 # Characteristics #
 * The program can read up to 1000 characters from user input.
